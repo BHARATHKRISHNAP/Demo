@@ -1,0 +1,10 @@
+.banner{
+    background-color:greenyellow;
+    width:100%;
+    height:75px;
+    margin-bottom:50px
+}
+.banner-text{
+    top:50%;
+    text-align:center;
+}
